@@ -5,17 +5,17 @@
   
 input : (a1, a2, px, py)  
   
-a1 : first arm length  
-a2 : second arm length  
-px : X-coordinates of the destination of the robot arm  
-py : Y-coordinates of the destination of the robot arm  
+  a1 : first arm length  
+  a2 : second arm length  
+  px : X-coordinates of the destination of the robot arm  
+  py : Y-coordinates of the destination of the robot arm  
 
 output :
-theta1,  
-theta2,  
-x1-coordinate,  
-y1-coordinate,  
-x2-coordinate,  
-y2-coordinate  
+  theta1,  
+  theta2,  
+  x1-coordinate,  
+  y1-coordinate,  
+  x2-coordinate,  
+  y2-coordinate  
 
 and plot graph!
