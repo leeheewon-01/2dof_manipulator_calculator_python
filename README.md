@@ -1,5 +1,8 @@
 # 2dof_manipulator_calculator in Python
-  
+
+### pip install  
+matplotlib  
+numpy  
   
 ![image](https://user-images.githubusercontent.com/81808758/190859297-138d7569-7b13-4528-b2e9-b68b4ae1d4df.png)
   
