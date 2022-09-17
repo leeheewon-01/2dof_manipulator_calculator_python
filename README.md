@@ -3,14 +3,16 @@
   
 ![image](https://user-images.githubusercontent.com/81808758/190859297-138d7569-7b13-4528-b2e9-b68b4ae1d4df.png)
   
-input : (a1, a2, px, py)  
-  
+#### input : (a1, a2, px, py)  
   a1 : first arm length  
   a2 : second arm length  
   px : X-coordinates of the destination of the robot arm  
   py : Y-coordinates of the destination of the robot arm  
-
-output :  
+  
+  
+  
+  
+#### output :  
   theta1  
   theta2  
   x1-coordinate  
@@ -18,4 +20,4 @@ output :
   x2-coordinate  
   y2-coordinate  
 
-and plot graph!
+and plot graph!!!
