@@ -11,11 +11,11 @@ px : X-coordinates of the destination of the robot arm
 py : Y-coordinates of the destination of the robot arm
 
 output :
-  theta1
-  tehta2
-  x1 coordinate
-  y1 coordinate
-  x2 coordinate
-  y2 coordinate
+theta1
+tehta2
+x1 coordinate
+y1 coordinate
+x2 coordinate
+y2 coordinate
 
 and plot graph!
